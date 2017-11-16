@@ -1,2 +1,2 @@
 # ESME-Sudria
-Ensemble des projets fait au sein de l'école ESME Sudria Paris
+Ensemble des projets et TD fait au sein de l'école ESME Sudria Paris
